@@ -8,6 +8,8 @@ dfx identity get-principal
 
 2. Save it somewhere.
 
+Mine: lruxp-cw6vw-nuds4-7qm4n-sl3u7-nizzs-clj5r-ndqiz-5slfr-m4dwt-lqe
+
 e.g. My principal id is: gbdev-tyqsv-hnvqv-7mgz4-4kcfl-wbv6x-6khez-y56gq-uohqs-quomc-uqe
 
 
